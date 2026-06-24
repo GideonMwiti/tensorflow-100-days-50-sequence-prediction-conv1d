@@ -47,3 +47,12 @@ Execute the main training and evaluation script:
 python main.py
 ```
 This script will train the Conv1D model, evaluate it on unseen test data, report MAE and RMSE metrics, and output a visual dashboard `conv1d_forecasting_results.png`.
+
+---
+
+## Results
+
+Upon execution, the script trains the Conv1D model and outputs the following dashboard:
+
+![Conv1D Forecasting Results](conv1d_forecasting_results.png)
+
